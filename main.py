@@ -1,5 +1,4 @@
 def clean_string(dirty_str):
-
   cleaned_string = ""
   for element in dirty_str:
     if element.isalpha():
